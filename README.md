@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA)<h1 align="center">Hi 👋, I'm Mursalin</h1>
+![MasterHead](https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA)<h1 align="center" width="400">Hi 👋, I'm Mursalin</h1>
 <h3 align="center">A passionate frontend development learner from Bangladesh</h3>
 
 
