@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/be832922391491.58c25558f0fe7.gif)
 <h1 align="center">Hi 👋, I'm Mursalin</h1>
-<h3 align="center">A passionate frontend development learner from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 
 
@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emamulmursalin47" alt="emamulmursalin47" /></a> </p>
 
-- 🔭 I’m currently working on [Two S Tech Ecommerce Website](https://github.com/emamulmursalin47/Professional_Ecommerce_Website_PHP)
 
 - 🌱 I’m currently learning **React.js, PHP**
 
