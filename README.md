@@ -16,15 +16,15 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,tailwind,git,github,postman,figma,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,tailwind,git,github,postman,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+### 📈 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emamulmursalin47&show_icons=true&theme=default&hide_border=true" />
@@ -37,14 +37,7 @@
 
 ---
 
-## ⏳ WakaTime Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=emamulmursalin47&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
-## ⚡ Recent Activity
+### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -52,12 +45,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=emamulmursalin47&theme=github-light&hide_border=true" />
 </p>
-
----
-
-## 🎵 Now Playing  
-
-[![Spotify](https://novatorem-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/emamulmursalin47)
 
 ---
 
