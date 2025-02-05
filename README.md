@@ -9,7 +9,7 @@
   <a href="mailto:emamulmursalin47@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portfolioemamul.netlify.app">
+  <a href="[https://portfolioemamul.netlify.app](https://emamulmursalin-portfolio.web.app/)">
     <img src="https://img.shields.io/badge/-Portfolio-333333?style=flat" />
   </a>
 </p>
