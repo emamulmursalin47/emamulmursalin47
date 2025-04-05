@@ -1,53 +1,138 @@
+<p align="center"> 
+  <img src="https://i.ibb.co/Myt7W2n/Black-Purple-Modern-Website-Design-And-Development-Banner-1.png" alt="emamulmursalin47" /> 
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=333333&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Emamul+Mursalin;Software+Engineer+from+Bangladesh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Md.+Emamul+Mursalin;💻+Full+Stack+Developer;🚀+Building+Scalable+Web+Applications" alt="Typing SVG" />
 </h1>
 
+I specialize in creating dynamic and responsive web applications that deliver seamless user experiences. My expertise spans across the entire stack, ensuring that every component of your web application is meticulously crafted and optimized for performance.
+
+On the front-end, I leverage the power of React to build interactive and intuitive user interfaces. React's component-based architecture allows me to create reusable UI components, leading to faster development times and consistent design across the application. I am proficient in using state management libraries like Redux and Context API to manage application state efficiently.
+
+In addition, I have extensive experience with MongoDB, a NoSQL database, which I use to design flexible and scalable data models. Whether it's handling complex queries, implementing data validation, or optimizing database performance, I ensure that data storage and retrieval are efficient and secure.
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/mdemamulmursalin/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/md-emamul-mursalin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:emamulmursalin47@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+  <a href="https://github.com/emamulmursalin47" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[https://portfolioemamul.netlify.app](https://emamulmursalin-portfolio.web.app/)">
-    <img src="https://img.shields.io/badge/-Portfolio-333333?style=flat" />
+  <a href="https://dev.to/emamulmursalin47" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technical Skills
 
+### **Programming Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,tailwind,git,github,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,python" alt="Programming Languages" />
 </p>
+
+- **JavaScript** (ES6+)  
+- **TypeScript**
+- **Linux**
+- **C**
+- **C++**
+- **Python**
+
+### **Frontend Development**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,mui" alt="Frontend Skills" />
+</p>
+
+- **Frameworks/Libraries**: React, Next.js  
+- **State Management**: Redux, Context API  
+- **Styling**: Tailwind CSS, Shadcn, Material UI  
+- **Markup**: HTML5, CSS3  
+- **Animation**: Framer Motion  
+- **API Clients**: Axios, Tanstack Query  
+
+### **Testing & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest,git,github,docker,postman,vscode,figma" alt="Tools" />
+</p>
+
+- **Testing**: Jest, React Testing Library  
+- **Version Control**: Git, GitHub  
+- **API Tools**: Postman, GraphQL Playground  
+- **CI/CD**: GitHub Actions, Docker
 
 ---
 
-### 📈 GitHub Stats
+## 🚧 Current Projects
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emamulmursalin47&show_icons=true&theme=default&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emamulmursalin47&layout=compact&theme=default&hide_border=true" />
-</p>
+### DEV HUB - Developer Collaboration Platform
+**Tech Stack**: MERN Stack (MongoDB, Express, React, Node.js) + TypeScript  
+**Features**:
+- Real-time code collaboration  
+- Project management tools  
+- Developer profile system  
+- API integration playground  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emamulmursalin47&theme=default&hide_border=true" />
-</p>
-
----
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emamulmursalin47&theme=github-light&hide_border=true" />
-</p>
+### [More Projects Coming Soon...]
 
 ---
 
+## 📝 Latest Blog Posts
+<!-- Uncomment when you have blog posts -->
+<!--
+1. [Optimizing React Performance](https://dev.to/emamulmursalin47/optimizing-react-performance)
+2. [TypeScript Best Practices](https://dev.to/emamulmursalin47/typescript-best-practices)
+3. [Building Scalable Node.js Applications](https://dev.to/emamulmursalin47/building-scalable-nodejs-apps)
+-->
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=emamulmursalin47&theme=onedark&no-frame=true&no-bg=true)
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=emamulmursalin47&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=emamulmursalin47&theme=radical&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emamulmursalin47&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emamulmursalin47&theme=react-dark&hide_border=true&area=true" width="90%"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emamulmursalin47&color=lightgrey" />
+  <a href="https://www.linkedin.com/in/mdemamulmursalin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/emamulmursalin47" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-emamulmursalin47@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emamulmursalin47&label=Profile+Views&color=4F46E5&style=flat" alt="Profile Views" />
 </p>
