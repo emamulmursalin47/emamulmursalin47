@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://i.ibb.co/Myt7W2n/Black-Purple-Modern-Website-Design-And-Development-Banner-1.png" alt="emamulmursalin47" /> 
+  <img src="/banner.png" alt="emamulmursalin47" /> 
 </p>
 
 <h1 align="center">
