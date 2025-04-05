@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Md.+Emamul+Mursalin;💻+Full+Stack+Developer;🚀+Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Md.+Emamul+Mursalin;💻+Passionate+Developer;🚀+Building+Scalable+Web+Applications" alt="Typing SVG" />
 </h1>
 
 I specialize in creating dynamic and responsive web applications that deliver seamless user experiences. My expertise spans across the entire stack, ensuring that every component of your web application is meticulously crafted and optimized for performance.
@@ -74,13 +74,7 @@ In addition, I have extensive experience with MongoDB, a NoSQL database, which I
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- Uncomment when you have blog posts -->
-<!--
-1. [Optimizing React Performance](https://dev.to/emamulmursalin47/optimizing-react-performance)
-2. [TypeScript Best Practices](https://dev.to/emamulmursalin47/typescript-best-practices)
-3. [Building Scalable Node.js Applications](https://dev.to/emamulmursalin47/building-scalable-nodejs-apps)
--->
+
 
 ---
 
@@ -101,7 +95,7 @@ In addition, I have extensive experience with MongoDB, a NoSQL database, which I
     </tr>
   </table>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emamulmursalin47&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+ 
   
 </div>
 
