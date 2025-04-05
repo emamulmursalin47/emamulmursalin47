@@ -40,7 +40,7 @@ In addition, I have extensive experience with MongoDB, a NoSQL database, which I
 
 ### **Frontend Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,linux,html,css,tailwind,mui" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,mui" alt="Frontend Skills" />
 </p>
 
 - **Frameworks/Libraries**: React, Next.js  
@@ -52,7 +52,7 @@ In addition, I have extensive experience with MongoDB, a NoSQL database, which I
 
 ### **Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,git,github,vscode,figma" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=jest,git,linux,github,vscode,figma" alt="Tools" />
 </p>
 
 - **Testing**: Jest, React Testing Library  
