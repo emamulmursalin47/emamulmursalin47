@@ -13,15 +13,13 @@ On the front-end, I leverage the power of React to build interactive and intuiti
 In addition, I have extensive experience with MongoDB, a NoSQL database, which I use to design flexible and scalable data models. Whether it's handling complex queries, implementing data validation, or optimizing database performance, I ensure that data storage and retrieval are efficient and secure.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-emamul-mursalin" target="_blank">
+  <a href="https://www.linkedin.com/in/mdemamulmursalin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/emamulmursalin47" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://dev.to/emamulmursalin47" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
+ 
 </p>
 
 ---
@@ -30,7 +28,7 @@ In addition, I have extensive experience with MongoDB, a NoSQL database, which I
 
 ### **Programming Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,python" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,linux,c,cpp,python" alt="Programming Languages" />
 </p>
 
 - **JavaScript** (ES6+)  
@@ -52,15 +50,13 @@ In addition, I have extensive experience with MongoDB, a NoSQL database, which I
 - **Animation**: Framer Motion  
 - **API Clients**: Axios, Tanstack Query  
 
-### **Testing & Tools**
+### **Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,git,github,docker,postman,vscode,figma" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=jest,git,github,vscode,figma" alt="Tools" />
 </p>
 
 - **Testing**: Jest, React Testing Library  
 - **Version Control**: Git, GitHub  
-- **API Tools**: Postman, GraphQL Playground  
-- **CI/CD**: GitHub Actions, Docker
 
 ---
 
