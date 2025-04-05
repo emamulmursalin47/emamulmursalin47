@@ -28,19 +28,19 @@ In addition, I have extensive experience with MongoDB, a NoSQL database, which I
 
 ### **Programming Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,linux,c,cpp,python" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,python" alt="Programming Languages" />
 </p>
 
 - **JavaScript** (ES6+)  
 - **TypeScript**
-- **Linux**
+
 - **C**
 - **C++**
 - **Python**
 
 ### **Frontend Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,mui" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,linux,html,css,tailwind,mui" alt="Frontend Skills" />
 </p>
 
 - **Frameworks/Libraries**: React, Next.js  
@@ -57,7 +57,7 @@ In addition, I have extensive experience with MongoDB, a NoSQL database, which I
 
 - **Testing**: Jest, React Testing Library  
 - **Version Control**: Git, GitHub  
-
+- **Linux**
 ---
 
 ## 🚧 Current Projects
