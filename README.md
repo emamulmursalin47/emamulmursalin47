@@ -4,7 +4,7 @@
 
 **Full-stack engineer — I design and ship AI products: web, mobile, and the systems behind them.**
 
-Software Engineer at Ayana Dev Studio · Rajshahi, Bangladesh · Open to remote
+Full Stack Engineer at Ayana Dev Studio · Rajshahi, Bangladesh · Open to remote
 TypeScript · Next.js · NestJS · PostgreSQL · AI agents & LLM integration
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mursalinsdesk.com-2F5AA8?style=flat-square)](https://mursalinsdesk.com)
@@ -84,7 +84,7 @@ Agent tooling I've built and published for [Claude Code](https://claude.com/clau
 
 ## Experience
 
-**Ayana Dev Studio** — Full Stack Developer · Sep 2025 – Present
+**Ayana Dev Studio** — Full Stack Engineer · Sep 2025 – Present
 Built an AI-powered Amazon advertising platform automating PPC campaign management, bid optimization and listings through a single dashboard. Shipped CakeOrFake and Telova. Architected NestJS/Prisma/PostgreSQL backends and engineered agentic features with OpenClaw, OpenRouter, MCP servers and Telegram bot integrations.
 
 **ATCTECH Limited** — Jr. Software Engineer · Jan 2024 – Aug 2025
